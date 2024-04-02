@@ -1,10 +1,13 @@
 Here's the full roadmap for becoming an IoT specialist:
 
-Certainly! If you choose to skip the "Data Analytics and Machine Learning" aspect of the roadmap, here's the revised roadmap:
-
 1. **Understand the Basics**:
-   - Learn the fundamentals of IoT, including its architecture, components, protocols, and communication technologies (e.g., MQTT, CoAP, HTTP).
-   - Familiarize yourself with basic electronics and hardware components commonly used in IoT devices, such as sensors, actuators, microcontrollers, and communication modules.
+   - Learn the fundamentals of IoT, including 
+   its architecture, components, protocols, and 
+   communication technologies (e.g., MQTT, CoAP, HTTP).
+
+   - Familiarize yourself with basic electronics and hardware 
+   components commonly used in IoT devices, such as sensors, 
+   actuators, microcontrollers, and communication modules.
 
 2. **Gain Programming Skills**:
    - Learn programming languages commonly used in IoT development, such as Python, C/C++, JavaScript, and Java.
